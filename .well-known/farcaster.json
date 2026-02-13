@@ -1,8 +1,8 @@
 {
   "accountAssociation": {
-    "header": "eyJmaWQiOi0xLCJ0eXBlIjoiYXV0aCIsImtleSI6IjB4NWVDNkFGMDc5OGIyNUM1NjNCMTAyZDM0Njk5NzFmMWE4ZDU5ODEyMSJ9",
-    "payload": "eyJkb21haW4iOiJ0YXBnb3JpbGEudmVyY2VsLmFwcCJ9",
-    "signature": "
+    "header": " ",
+    "payload": " ",
+    "signature": " " },
   "miniapp": {
     "version": "1",
     "name": "Bandor Tapper",
